@@ -10,7 +10,8 @@ namespace ConsoleApplicationTest
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Привет, ИС-320/1! Удачного учебного года!");
+            Console.ReadLine();
         }
     }
 }
